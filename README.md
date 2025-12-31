@@ -2,9 +2,9 @@
 Battle Simulator is a simple full‑stack project with a C# backend and a React frontend.
 
 It is capable of:
-*Simulating battles between transformers
-*Displaying information about transformers
-*Creating and deleting transformers
+* Simulating battles between transformers
+* Displaying information about transformers
+* Creating and deleting transformers
 
 ## How to Run the Project
 
