@@ -29,4 +29,4 @@ The React app will start on the local HTTPS port https://localhost:3000
 * The UI will automatically call the backend
 * Enter fighters and run battles
 
-Updated by Davis Brooks on 12/31/2025
+Updated by Davis Brooks on 12/31/2025 :)
