@@ -1,0 +1,6 @@
+@battlesimulation.api_HostAddress = http://localhost:5128
+
+GET {{battlesimulation.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

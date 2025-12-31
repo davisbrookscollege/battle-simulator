@@ -1,0 +1,16 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore frontend build artifacts
+node_modules/
+dist/
+
+# Ignore system files
+.DS_Store
+Thumbs.db

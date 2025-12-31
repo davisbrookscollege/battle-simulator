@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="battlesimulation.api.Tests/battlesimulation.api.Tests.csproj" Id="9cff3d53-edda-4303-a093-b76e9895b3cf" />
+  <Project Path="battlesimulation.api/battlesimulation.api.csproj" />
+</Solution>
