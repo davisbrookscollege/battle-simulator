@@ -10,7 +10,7 @@ It is capable of:
 
 ### 1. Start the backend (API)
 ```bash
-cd battlesimulation.api
+cd battlesimulation-api/battlesimulation.api
 dotnet restore
 dotnet run
 ```
