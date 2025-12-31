@@ -22,7 +22,7 @@ cd battlesimulation-ui
 npm install
 npm run dev
 ```
-The React app will start on the local HTTPS port http://localhost:3000
+The React app will start on the local HTTP port http://localhost:3000
 
 ### 3. Use the App
 * Open the frontend in your browser
